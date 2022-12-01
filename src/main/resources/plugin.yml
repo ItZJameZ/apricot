@@ -1,0 +1,6 @@
+main: io.github.itzjamez.apricot.Apricot
+name: ApricotAPI
+version: 1.0.0
+description: An All-In-One Developer API to use for making any size plugin. Works on versions (1.8.x - 1.19.x)
+website: http://itzjamez.github.io/
+author: ItZ_JameZ_
